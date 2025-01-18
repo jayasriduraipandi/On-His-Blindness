@@ -1,0 +1,77 @@
+* {
+ background-color: blanchedalmond;
+ background-image: url(front.jpg);
+}
+a{
+    text-decoration: none;
+    color:white;
+    background: none;
+    padding:1%;
+    font-style: italic;
+}
+nav
+{
+    margin-top:0%;
+    margin-right:5%;
+    margin-left: 5%;
+    font-size:small;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: initial;
+    display: flex;
+    justify-content: space-between;
+}
+.tit
+{
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+.tit1
+{
+    text-align: center;
+    color: white;
+    margin-left:28%;
+    font-style: italic;
+}
+.tit1:hover
+{
+    color: coral;
+}
+.tit:hover
+{
+    color: coral;
+}
+a:hover
+{
+    color: coral;
+}
+img{
+    width: 30%;
+    height: 20%;
+    border-radius: 50%;
+    margin-top: -5%;
+    border: 2px dotted;
+}
+img:hover 
+{
+    box-shadow: 0 0 5px 5px white;
+}
+.but:link, .but:visited {
+    background-color:whitesmoke;
+    color:black;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-right:5%;
+    font-style:italic;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius:50%;
+    justify-content: space-evenly;
+
+}
+  
+  .but:hover, .but:active {
+    background-color:red;
+    color: white;
+  }
