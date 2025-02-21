@@ -1,7 +1,7 @@
 # On His Blindness - Poem Website
 
 ## Overview
-This project is a website dedicated to the poem *On His Blindness* by John Milton. It provides an in-depth analysis, grammar breakdown, author information, and an interactive summary feature.
+This project is a website dedicated to the poem *On His Blindness* by "John Milton". It provides an in-depth analysis, grammar breakdown, author information, and an interactive summary feature.
 
 ## Features
 - **Poem Explanation:** A detailed analysis of each line of the poem.
